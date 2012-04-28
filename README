@@ -1,16 +1,16 @@
 Projeto: Lista de carros do GT5 - (PS3)
 
 Este projeto tem por finalidade pegar a lista de carros do site oficial Gran Turismo 5 e passar para
-um banco de dados de forma a permitir efetuar pesquisas de se der tempo de fazer controle de qual 
-carros já foi conquistado ou comprados no jogo, e possibilitar fazer uma pesquisa em qual corrida 
+um banco de dados de forma a permitir efetuar pesquisas e se der tempo de fazer controle de qual 
+carros já foi conquistados ou comprados no jogo, e possibilitar fazer uma pesquisa em qual corrida 
 que consigo determinado carro.
 
-Esta proposta esta sendo feito nas horas vagas sem fim de se aprofundar em performance deste algoritmo
-mais pretendo ficas no máximo entre os 20 segundos de execução, mas para isso também vai depender muito 
-da conexão, e quero aproveitar para testar alguns conceito de leitura de pagina html/XML usando a 
-biblioteca da linguagem python (BeautifulSoup).
+Esta proposta esta sendo feito nas horas vagas sem fim de se aprofundar em performance deste algoritmo,
+mais pretendo ficar no máximo entre os 20 segundos de execução, para isso também dependera muito 
+da conexão que eu conseguir obter aqui em casa, e quero aproveitar para testar alguns conceito de leitura 
+de pagina html/XML usando a biblioteca da linguagem python (BeautifulSoup).
 
-Obs: O tempo dedicado a este projeto esta sendo enquanto jogo GT5 em modo B-spec   
+Obs: O tempo dedicado para este projeto esta sendo somente enquanto "esto" jogando GT5 em modo B-spec.   
 
 O site onde esta a lista de carros atualizada:
 
