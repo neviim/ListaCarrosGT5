@@ -24,7 +24,8 @@ for tr in rows:
   textID = ''.join(tr.find(text=True)) 
   
   #textCarro = ''.join(cols1.find(text=True))
-  print textID 
+
+  print textID, cols1 
   										          	
   #splT1 = str((cols1[1])).split('"')	# <td class="icon"><img src="./images/icon02.jpg" width="16" height="14" alt="standard" /></td>
   #print (textID, splT1[9])				# Retira da string a informacao de standard/premium
